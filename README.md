@@ -1,4 +1,3 @@
-# LRPresets
 Free Lightroom Presets
 
 # TO LONG, DIDNT READ: 
