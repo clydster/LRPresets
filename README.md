@@ -2,14 +2,14 @@
 Free Lightroom Presets
 
 # TO LONG, DIDNT READ: 
-# You are free to use this LR Presets, private as commercial.
-# You are free to edit this Preset and upload it on your own.
-# I would be happy if you credit me and/or link to my instagram account, but it is not necessary.
+- You are free to use this LR Presets, private as commercial.
+- You are free to edit this Preset and upload it on your own.
+- I would be happy if you credit me and/or link to my instagram account, but it is not necessary.
 
-# This License includes a limitation of liability.
-# This License explicitly states that it does not grant any rights in the patents of contributors.
-# This License explicitly states that it does not grant trademark rights.
-# This License explicitly states that it does not provide any warranty.
+- This License includes a limitation of liability.
+- This License explicitly states that it does not grant any rights in the patents of contributors.
+- This License explicitly states that it does not grant trademark rights.
+- This License explicitly states that it does not provide any warranty.
 
 CC0 1.0 Universal
 
